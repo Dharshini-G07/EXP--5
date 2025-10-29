@@ -18,13 +18,13 @@ S.No	Name of the Apparatus	Range	Quantity
 CIRCUIT DIAGRAM:
 
 line regulation
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ef3f6d6-b871-4ae2-95e3-d5e8b78ab9a4" />
 
-<img width="714" height="431" alt="image" src="https://github.com/user-attachments/assets/9dad595e-32e0-49e2-8521-058cba319a6e" />
 
 
 load regulation
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d5329ef3-bb51-4c5a-9916-75136a97f13f" />
 
-<img width="665" height="428" alt="image" src="https://github.com/user-attachments/assets/22f8ffec-044a-43cb-95f5-4f527800b7b8" />
 
 
 THEORY:
